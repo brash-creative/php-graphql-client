@@ -8,7 +8,7 @@ between each release.
 - Refactor the query conversion to string to separate the process of
 constructing a new query and adding a nested subfield
 
-## Unreleased
+## 1.8:
 
 ### Changed
 

@@ -1,6 +1,6 @@
 {
-    "name": "gmostafa/php-graphql-client",
-    "description": "GraphQL client and query builder.",
+    "name": "fortress/php-graphql-client",
+    "description": "GraphQL client and query builder. Forked from gmostafa/php-graphql-client",
     "type": "library",
     "license": "MIT",
     "keywords": [
